@@ -15,10 +15,7 @@
     "react-native": "0.72.5"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0",
-    "prettier": "^3.0.3",
-    "prettier-plugin-organize-attributes": "^1.0.0",
-    "prettier-plugin-organize-imports": "^3.2.3"
+    "@babel/core": "^7.20.0"
   },
   "private": true
 }
